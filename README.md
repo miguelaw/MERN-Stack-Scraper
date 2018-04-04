@@ -25,7 +25,7 @@ This app consisted on creating React components, and utilize the React mounting 
 <img src="./Readme-img/4.jpg" alt="MERN Stack App" height="600">
 
 
-*To conclude, once the User has finished reading the articles. He/She can delete the article by clicking on the "Delete" button.
+* To conclude, once the User has finished reading the articles. He/She can delete the article by clicking on the "Delete" button.
 
 <img src="./Readme-img/5.jpg" alt="MERN Stack App" height="600">
 
