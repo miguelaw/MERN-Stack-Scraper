@@ -2,15 +2,15 @@
 
 ## Description
 
-<img src="./1.jpg" alt="MERN Stack App" height="600">
+<img src="./Readme-img/1.jpg" alt="MERN Stack App" height="600">
 
-<img src="./2.jpg" alt="MERN Stack App" height="600">
+<img src="./Readme-img/2.jpg" alt="MERN Stack App" height="600">
 
-<img src="./3.jpg" alt="MERN Stack App" height="600">
+<img src="./Readme-img/3.jpg" alt="MERN Stack App" height="600">
 
-<img src="./4.jpg" alt="MERN Stack App" height="600">
+<img src="./Readme-img/4.jpg" alt="MERN Stack App" height="600">
 
-<img src="./5.jpg" alt="MERN Stack App" height="600">
+<img src="./Readme-img/5.jpg" alt="MERN Stack App" height="600">
 
 
 ## Demo
