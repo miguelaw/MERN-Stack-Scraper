@@ -1,0 +1,13 @@
+.jumbotron {
+    background-color: whitesmoke;
+    color: black;
+    font-family: 'Chicle', cursive;
+    -webkit-box-shadow: 0px 5px 11px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow: 0px 5px 11px 0px rgba(50, 50, 50, 0.75);
+    box-shadow: 0px 5px 11px 0px rgba(50, 50, 50, 0.75);
+}
+
+.jumbotron span {
+    color: #2196f3;
+    font-family: 'Montserrat', sans-serif;
+}
