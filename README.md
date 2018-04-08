@@ -30,10 +30,6 @@ This app consisted on creating React components, and utilize the React mounting 
 <img src="./Readme-img/5.jpg" alt="MERN Stack App" height="600">
 
 
-## Demo
-
-The demo of this application can be found [here]().
-
 
 ## Installation
 
